@@ -1,7 +1,9 @@
-# mpu6050
+# Project Name
 
-Sketch for gyro mpu6050 sensor.
+MPU6050 Inertial Measurement Unit (IMU)
 
-Raw datas are obtained and angles are calculated. Code is ready for further needs.
+## Description
 
-Configuration settings can be adjusted according to the project using the datasheet.
+This is an arduino code for setting up and running the MPU6050 gyro sensor with built-in `Wire.h` arduino library.
+
+You can look at the documentation and datasheet which is included in the repository as pdf files for more information.
